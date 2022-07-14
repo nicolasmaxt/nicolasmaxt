@@ -8,4 +8,4 @@
 nicolasmaxt/nicolasmaxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://ssssv2.xyz/api/v1/client/subscribe?token=2ce53bbd5adaf9408d47601171ae1748
+
